@@ -29,6 +29,8 @@ class navbar extends Component {
                   <Navbarlink to="/signup" label="signup"/>
                   <Navbarlink to="/users" label="users"/>
                   <Navbarlink to="/about" label="about"/>
+                  <Navbarlink to="/contact" label="contact"/>
+
               </ul>
               
             </div>
